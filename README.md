@@ -1,4 +1,5 @@
-### Hi there, I'm Arthur. Nice to meet you! 👋
+### Hi there, I'm Arthur. 
+Nice to meet you! 👋
 <img src="good.jpg" width="300" heigth="300">
 
 <!--
@@ -13,7 +14,7 @@
     + 小恐龍對戰
 + and so on... -->
 
-🌱 I’m currently learning : Golang <img src="go.png" width="35" heigth="35">、Python <img src="python.png" width="40" heigth="40">、Flutter <img src="dash.png" width="40" heigth="40">
+🌱 I’m currently learning : Golang <img src="go.png" width="20" heigth="20">、Python <img src="python.png" width="30" heigth="30">、Flutter <img src="dash.png" width="30" heigth="30">
 
 ⚡ Some Info : 
 
