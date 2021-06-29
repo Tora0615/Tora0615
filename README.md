@@ -1,5 +1,5 @@
 ### Hi there, I'm Arthur. Nice to meet you! 👋
-<img src="good.png" width="40" heigth="40">
+<img src="good.jpg" width="40" heigth="40">
 
 <!--
 #### 🔭 I’m currently working on ...
@@ -14,7 +14,7 @@
 + and so on... -->
 
 🌱 I’m currently learning : Golang、Python、Flutter
-<img src="go.png" width="40" heigth="40"><img src="python" width="40" heigth="40"><img src="dash.png" width="40" heigth="40">
+<img src="go.png" width="40" heigth="40"><img src="python.png" width="40" heigth="40"><img src="dash.png" width="40" heigth="40">
 
 ⚡ Some Info : 
 
