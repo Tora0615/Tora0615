@@ -19,9 +19,9 @@ Nice to meet you! 👋
 
 ⚡ Some Info : 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tora0615&layout=compact&theme=calm)](https://github-readme-stats.vercel.app/api/top-langs/?username=Tora0615&layout=compact&theme=calm)![](https://github.githubassets.com/images/mona-whisper.gif)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tora0615&count_private=true&layout=compact&theme=calm)](https://github-readme-stats.vercel.app/api/top-langs/?username=Tora0615&count_private=true&layout=compact&theme=calm)![](https://github.githubassets.com/images/mona-whisper.gif)
 
-[![](https://github-readme-stats.vercel.app/api?username=Tora0615&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Tora0615&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
