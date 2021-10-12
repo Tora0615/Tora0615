@@ -1,4 +1,4 @@
-## Hi there, I'm Arthur.
+# Hi there, I'm Arthur.
 I am a student who love road trip by motorcycle.
 
 And I am also interest in camping, hiking and take photos.
@@ -25,33 +25,33 @@ If you need to contact to me, please send an email to this address : akikawatora
 + and so on... -->
 
 
-### 🌱&nbsp;&nbsp;Skill Tree :
+## 🌱&nbsp;&nbsp;Skill Tree :
 
-#### Languages
+### Languages
 * C : data structure
 * Python : web crawler
 * Dart : flutter app
 * Java : Algorithm
 * Go : basic
 
-#### App Framework
+### App Framework
 Flutter ( Cross Platform App Framework)
-#### Tools
+### Tools
 Git ( CLI & Source Tree )
-#### OS
+### OS
 Windows, MacOS, Linux ( Ubuntu GUI & CLI )
-#### IOT
+### IOT
 Arduino hardware and software.
 
 
-### 🤔&nbsp;&nbsp;Currently learning :
+## 🤔&nbsp;&nbsp;Currently learning :
 
-#### Languages
+### Languages
 
 * advanced : Go, Flutter
 * basic : Swift
 
-#### Others
+### Others
 * How to maintain a server on a small RPi 3
 
 
@@ -61,7 +61,7 @@ Arduino hardware and software.
 <img src="./source/python.png" width="30" heigth="30">
 <img src="./source/dash.png" width="30" heigth="30"> -->
 
-### ⚡ Some Info :
+## ⚡ Some Info :
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tora0615&count_private=true&layout=compact&theme=calm)](https://github-readme-stats.vercel.app/api/top-langs/?username=Tora0615&count_private=true&layout=compact&theme=calm) <html>&nbsp;&nbsp;</html> ![](https://github.githubassets.com/images/mona-loading.gif)
 
@@ -71,7 +71,7 @@ Arduino hardware and software.
 
 [![](https://github-readme-stats.vercel.app/api?username=Tora0615&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💬 Small talk
+## 💬 Small talk
 Current spend too much time on playing Genshin Impact.
 
 RIP my codes.
