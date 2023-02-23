@@ -1,4 +1,4 @@
-# Hi there, I'm Arthur  <img src="./source/sayo.gif" width="100" heigth="80">
+# Hi there, I'm Arthur   <img src="./source/sayo.gif" width="100" heigth="80">
 
 ## About Me  <img src="https://github.githubassets.com/images/mona-loading.gif" width="25" heigth="25"> 
 
@@ -43,6 +43,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+emoji-cheat-sheet
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+skill-icons
+https://github.com/tandpfun/skill-icons
 -->
 
 <!--
@@ -56,6 +63,5 @@ Here are some ideas to get you started:
 + Pygame
     + 小恐龍對戰
 + and so on... -->
-
 
 
